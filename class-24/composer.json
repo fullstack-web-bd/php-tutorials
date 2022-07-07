@@ -1,0 +1,22 @@
+{
+    "name": "akash/phpclass24",
+    "autoload": {
+        "psr-4": {
+            "Akash\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maniruzzaman Akash",
+            "email": "manirujjamanakash@gmail.com"
+        },
+        {
+            "name": "Polash Rana",
+            "email": "polashrana@gmail.com"
+        }
+    ],
+    "require": {
+        "cocur/slugify": "^4.1",
+        "cocur/domain": "^0.2.0"
+    }
+}
